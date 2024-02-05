@@ -122,11 +122,6 @@ section {
     color: #fff;
 }
 
-header.sticky- {
-    padding: 8px 17%;
-    background: transparent;
-    backdrop-filter: blur(35px);
-}
 
 .feature-content {
     display: grid;
